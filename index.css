@@ -1,0 +1,50 @@
+.topnav {
+    background-color: white;
+    display: inline-flex;
+    justify-content: space-between;
+    list-style-type: none;
+    font-size: x-large;
+}
+h1 {
+    font-size: xx-large;
+}
+.main {
+   background-image: url('https://lightyrp.weebly.com/uploads/2/8/6/2/28626389/hulu1_orig.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   text-align: center;
+   color: white;
+}
+.second {
+    background-color: #196392;
+    justify-content: flex-start;
+    display: inline-flex;
+    width: 100%;
+}
+#hulu {
+    color: lightgreen;
+    font-size: larger;
+    width: 10%;
+}
+#disney-plus {
+    color: white;
+    font-size: larger;
+    width: 10%;
+}
+#ESPN-plus {
+    color: white;
+    font-size: larger;
+    width: 10%;
+}
+.middle {
+    text-align: center;
+    color: white;
+}
+.middle h5 {
+    color: teal;
+}
+img {
+    height: 1000px;
+    width: 1700px;
+    margin: auto;
+}
